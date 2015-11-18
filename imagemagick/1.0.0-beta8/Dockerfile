@@ -1,4 +1,4 @@
-FROM staff0rd/aspnet-aws:1.0.0-beta8
+FROM staff0rd/aspnet:1.0.0-beta8-aws
 
 # Install imagemagick
 RUN bash -c "apt-get update \
